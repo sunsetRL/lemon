@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>Lemon</title>
+	<link rel="stylesheet" href="template">
+</head>
+<body>
+	<div class="bg-img"></div>
+	<header>Lemon</header>
+	<main>
+		<h1>欢迎来到Lemon</h1>
+		<p>Lemon专注于开发安卓实用工具，给中国网民带来更良好的体验</p>
+        <h1>以下为lemon所有产品</h1>
+        <p>点击任意一个链接以继续<p>
+<a href="https://1emon.rth1.me/404.html">lemon网盘下载</a>
+        <h1>反馈产品</h1>
+        <p>我们欢迎任何来自四面八方的反馈，通过您的反馈我们可以改正或改进</p>
+<a href="https://1emon.rth1.me/feedback.html">立即通过电子邮件反馈！</a>
+    </main>
+</body>
+</html>
